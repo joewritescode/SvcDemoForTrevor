@@ -1,0 +1,4 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="WebApplication3.FAQ" CodeBehind="FAQ.svc.vb"     Factory="System.Data.Services.DataServiceHostFactory, 
+            System.Data.Services, Version=4.0.0.0, 
+            Culture=neutral, PublicKeyToken=b77a5c561934e089" %>
+
